@@ -30,15 +30,15 @@ Lecture1: Hello world, conditional expressions, loops, and lists
 
 ## Friday 16th Aug: 09:30 - 13:00 (for ages 13-17, 3 hours)
 
-09:30 - 10:30 Lecture4:
+09:30 - 10:30 Lecture1:
 
-10:30 - 11:00 Exercise4:
+10:30 - 11:00 Exercise1:
 
 11:00 - 11:30 break
 
-11:30 - 12:00 Lecture5:
+11:30 - 12:00 Lecture2:
 
-12:00 - 13:00 Exercise5:
+12:00 - 13:00 Exercise2:
 
 ## Sunday 18th Aug: 09:30 - 11:30 (for ages 13-14, 2 hours)
 

@@ -2,15 +2,19 @@
 
 ## Wednesday 14th Aug: 14:00 - 17:30 (for ages 13-15, 3 hours) 
 
-14:00 - 15:00 Lecture1: Hello world, conditional expressions, loops, and lists
+14:00 - 15:00 
 
-15:00 - 15:30 Exercise1:
+Lecture0: Introduction to Computer Science and Python
+
+Lecture1: Hello world, conditional expressions, loops, and lists
+
+15:00 - 15:30 Exercise1
 
 15:30 - 16:00 break
 
-16:00 - 16:30 Lecture2:
+16:00 - 16:30 Exercise1
 
-16:30 - 17:00 Exercise2:
+16:30 - 17:00 Lecture2:
 
 ## Thursday 15th Aug: 13:00 - 15:00 (for ages 15-18, 2 hours)
 

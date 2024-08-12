@@ -22,7 +22,7 @@ Python1: Hello world, conditional expressions, loops, and lists
 
 0: Introduction AND Voting
 
-Python1: Hello world, conditional expressions, loops, and lists / 3:
+Python1: Hello world, conditional expressions, loops, and lists / 3: Data Science and Machine Learning
 
 14:00 - 15:00 Exercise1/3
 
@@ -32,7 +32,7 @@ Python1: Hello world, conditional expressions, loops, and lists / 3:
 
 0: Introduction AND Voting
 
-Python1: Hello world, conditional expressions, loops, and lists / 3:
+Python1: Hello world, conditional expressions, loops, and lists / 3: Data Science and Machine Learning
 
 15:45 - 16:30 Exercise1/3
 
@@ -81,7 +81,7 @@ Python1: Hello world, conditional expressions, loops, and lists
 
 0: Introduction AND Voting
 
-Python1: Hello world, conditional expressions, loops, and lists / 3:
+Python1: Hello world, conditional expressions, loops, and lists / 3: Data Science and Machine Learning
 
 10:30 - 11:30 Exercise1/3
 
@@ -109,6 +109,6 @@ Python1: Hello world, conditional expressions, loops, and lists
 
 0: Introduction AND Voting
 
-Python1: Hello world, conditional expressions, loops, and lists + Python2: List, if conditional expressions and NumPy / 3:
+Python1: Hello world, conditional expressions, loops, and lists + Python2: List, if conditional expressions and NumPy / 3: Data Science and Machine Learning
 
 11:00 - 12:30 Exercise1 + 2 / 3

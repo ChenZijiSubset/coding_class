@@ -2,7 +2,31 @@
 
 ## Wednesday 14th Aug: 14:00 - 17:30 (for ages 13-15, 3 hours) 
 
-14:00 - 15:00 Lecture1:
+14:00 - 15:00 Lecture1: Hello world, conditional expressions, loops, and lists
+
+Learning objectives:
+
+At the end of this lecture, you will:
+
+Know that Python will help you defy gravity.
+
+Execute Python statements from within google colab notebook.
+
+Explain what a variable is and express a mathematical formula in code.
+
+Print program outputs.
+
+Access mathematical functions from a Python module.
+
+Write your own function.
+
+Form a condition using a boolean expression.
+
+Use a conditional expression in combination with a while-loop to perform repetitive tasks.
+
+Store data elements within a Python list.
+
+Use a for-loop to iterate, and perform some task over a sequence of elements.
 
 15:00 - 15:30 Exercise1:
 
